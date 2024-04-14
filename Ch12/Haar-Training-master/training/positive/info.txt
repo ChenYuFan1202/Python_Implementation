@@ -1,0 +1,3 @@
+rawdata/pos(1).bmp 1 348 203 71 71
+rawdata/pos(2).bmp 1 476 37 111 111
+rawdata/pos(3).bmp 1 334 207 73 73
